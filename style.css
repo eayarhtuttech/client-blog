@@ -1,0 +1,91 @@
+ul li{
+    display:inline;
+    margin: 5px 5px 5px 5px;
+    
+}
+header {
+    background-color: rgb(13, 168, 196);
+    text-align: center;
+    font-weight: 500px;
+    font-family: 'Lobster', Roboto;
+    background-size: cover;
+    color: white;
+    border: 1px solid white;
+}
+.text-container {
+    background: url(images/grooming-pet1.jpg) center no-repeat border-box;
+    background-size: cover;
+    padding: 200px 200px;
+    margin-top: 20px;
+}
+
+.text-container p{
+    text-align: center;
+    font-size: 25px;
+    font-weight:500px;
+    margin-bottom: 10px;
+    background:pink;
+    opacity:0.50;
+    color:#FA3628;
+}
+body{
+    background-color: beige;
+    background-image: url(images/trees.png);
+}
+
+
+footer{
+    border-top: 2px solid #c2cad4;
+    text-align:center;
+    background-color:#ffc0cb;
+}
+
+p{
+   margin:0 auto 0 auto; 
+   padding: 20px 100px 20px 100px;
+   font-weight: 300px;
+}
+.main-box img{
+    margin:0 500px 0 500px;
+}
+.content img{
+    margin: 0 250px;
+} 
+.button-container{
+    display:inline-block;
+    background:#B8AAF0;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+    transition: all 1s ease;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+}
+.button-container:hover{
+    padding: 7px;
+    background:#D895DB;
+    margin: 10px;
+}
+.button-style{
+    display: inline-block;
+    background:#B8AAF0 ;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+    transition: all 1s ease;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+}
+.button-style:hover{
+    padding: 7px;
+    background:#FFA49C;
+    margin: 10px;
+}
+.copyright{
+    color:ivory;
+    padding:3px;
+   
+}
